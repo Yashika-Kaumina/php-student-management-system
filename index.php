@@ -163,6 +163,11 @@ if (!empty($search)) {
             color: white;
             width: 260px;
         }
+        .search-form input::placeholder,
+        .crud-form input::placeholder {
+            color: rgba(255, 239, 192, 0.9);
+            opacity: 1;
+        }
         .search-form button, .search-form a {
             padding: 10px 18px;
             border-radius: 40px;
