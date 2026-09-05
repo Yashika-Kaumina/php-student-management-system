@@ -20,7 +20,7 @@
 
 **Experience the system live on AwardSpace hosting:**
 
-👉 **[http://students2026.atwebpages.com](http://studentms2026.atwebpages.com/)**
+👉 **[http://students2026.atwebpages.com](http://studentms2026.atwebpages.com)**
 
 **Demo Credentials | අත්හදා බැලීමේ පිවිසුම් | மாதிரி உள்நுழைவு:**
 
