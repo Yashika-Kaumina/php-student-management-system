@@ -16,6 +16,21 @@
 
 ---
 
+## 🔗 Live Demo | සජීවී අත්හදා බැලීම | நேரடி இணைப்பு
+
+**Experience the system live on AwardSpace hosting:**
+
+👉 **[http://students2026.atwebpages.com](http://students2026.atwebpages.com)**
+
+**Demo Credentials | අත්හදා බැලීමේ පිවිසුම් | மாதிரி உள்நுழைவு:**
+
+| Role | Username | Password |
+|------|----------|----------|
+| **Admin** | `admin` | `admin123` |
+| **Viewer** | `viewer` | `viewer123` |
+
+> ⚠️ **Note:** This is a live demo hosted on a free server. Please be respectful and do not abuse the system.
+
 ## 🌟 Introduction | හැඳින්වීම | அறிமுகம்
 
 **සිංහල:**  
